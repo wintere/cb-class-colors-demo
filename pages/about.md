@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
-
 ## Collection Description
 
 This is my fake collection description that is formatted in **Markdown**. 
