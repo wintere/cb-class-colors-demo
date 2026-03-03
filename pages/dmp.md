@@ -3,11 +3,6 @@ title: Data Management Plan
 layout: page
 permalink: /dmp.html
 ---
---- 
-title: Data Management Plan
-layout: page
-permalink: /dmp.html 
----
 
 # Project Title – Project Subtitle
 
