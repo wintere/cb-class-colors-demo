@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+shade,Shade,true
+color,Color,true
+location,Location,false,true
+subject,Subject,false,true

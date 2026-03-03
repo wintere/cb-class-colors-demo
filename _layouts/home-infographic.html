@@ -12,11 +12,11 @@ layout: page
   </div>
   <div class="col-md-4">
 
-    {% include index/time.html %}
+    {% include index/featured-terms.html field="shade" title="Shades" btn-color="primary" max=8 %}
+    
+    {% include index/featured-terms.html field="color" title="Colors" btn-color="success" max=8 %}
 
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" max=8 %}
-
-    {% include index/featured-terms.html field="creator" title="Creators" btn-color="success" max=8 %}
+    {% include index/featured-terms.html field="subject" title="Tags" btn-color="secondary" max=8 %}
 
     {% include index/objects.html %}
 

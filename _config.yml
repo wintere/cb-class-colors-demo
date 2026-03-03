@@ -14,20 +14,20 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
+source-code: https://github.com/wintere/cb-class-colors-demo
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Lib350M Class Colors
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Our favorite colors in casual photographs
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "A repository demonstrating the capabilities of CollectionBuilder sheets."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: wintere;gabrielesh
 
 ##########
 # COLLECTION SETTINGS
@@ -62,7 +62,7 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRpv0R-GSsCj8abwED
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+development-mode: false
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
